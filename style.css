@@ -1,0 +1,9 @@
+.aviso{
+    background-color: dodgerblue;
+    display: inline-block;
+    height:40px;
+}
+
+a{
+    padding: 20px;
+}
